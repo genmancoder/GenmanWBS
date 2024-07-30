@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/resources/fxml/HomeWindow.fxml</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/controllers/HistoryPaneController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/controllers/HistoryItemController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/controllers/HomeWindowController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/resources/fxml/HistoryItem.fxml</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/resources/fxml/HistoryPane.fxml</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/Main.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/misc/ThemeManager.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/projectWBS/src/com/genman/wbs/settings/Settings.java</file>
+        </group>
+    </open-files>
+</project-private>
